@@ -18,7 +18,6 @@ This project demonstrates SQL-based analysis of an e-commerce dataset to extract
 
 * SQL
 * MySQL
-* CSV Dataset
 
 ## SQL Concepts Used
 
@@ -46,3 +45,16 @@ This project demonstrates SQL-based analysis of an e-commerce dataset to extract
 * Query output screenshots
 * Project documentation
 
+## Query Output Preview
+
+### Revenue Analysis
+![Revenue](query_output1.png)
+
+### Customer Analysis
+![Customers](query_output2.png)
+
+### Popular Catogary
+![Popular Category](query_output3.png)
+
+### City
+![City](query_output4.png)
