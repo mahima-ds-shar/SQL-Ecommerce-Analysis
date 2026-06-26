@@ -48,13 +48,13 @@ This project demonstrates SQL-based analysis of an e-commerce dataset to extract
 ## Query Output Preview
 
 ### Revenue Analysis
-![Revenue](query_output1.png)
+![Revenue](query1_output.png)
 
 ### Customer Analysis
-![Customers](query_output2.png)
+![Customers](query2_output.png)
 
 ### Popular Catogary
-![Popular Category](query_output3.png)
+![Popular Category](query3_output.png)
 
 ### City
-![City](query_output4.png)
+![City](query4_output.png)
