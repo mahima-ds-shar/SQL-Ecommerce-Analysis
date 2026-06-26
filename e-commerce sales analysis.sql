@@ -1,4 +1,7 @@
 USE ecommerce_analysis;
+SELECT * FROM customers;
+SELECT * FROM products;
+SELECT * FROM orders;
 
 -- Total Revenue Per Product
 SELECT 
